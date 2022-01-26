@@ -46,11 +46,15 @@
 
 ## About the project
 
+Well hello there
 ...
 
 
 # Chapter 1 - Getting Started
 
+During this chapter we will go over some of the following items
+
+- Getting comfortable with the commandline
 ...
 
 
