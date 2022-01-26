@@ -54,7 +54,18 @@ Well hello there
 
 During this chapter we will go over some of the following items
 
+
+- Distros and Flavores, choosing your first distro
 - Getting comfortable with the commandline
+  - Managing package managers
+- Setting up your system
+- System configs
+- Techical termonologies
+- Useful programs - GUI
+- CLI Utils (command line interface)
+- KDE Connect
+- Browsers, search engines & plugins
+
 ...
 
 
