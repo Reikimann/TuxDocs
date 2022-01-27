@@ -13,4 +13,4 @@ In chapter one we are going over how you would first get started using linux, fo
 - [KDE Connect](KDE_connect.md)
 - [Browsers, search engines & plugins](browsers.md)
 
-We have tried splitting them up into readable chunks so that we avoid loosing track of where we are and what we are doing
+We have tried splitting the different subjects up into readable chunks, so that we avoid loosing track of where we are and what we are doing.

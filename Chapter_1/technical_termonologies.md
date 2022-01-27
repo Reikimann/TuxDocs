@@ -1,1 +1,1 @@
-# Thecnical Termonologies
+# Technical Terminologies
