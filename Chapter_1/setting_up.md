@@ -44,6 +44,7 @@ $ yay -S <package name>
 ```
 As you can see, yay acuallt uses the same [flags](technical_termonologies.md) as with pacman, so installing, searching and removing packages is the same
 
+hej med dig
 
 ### A little task
 
