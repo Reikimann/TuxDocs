@@ -65,7 +65,7 @@ During this chapter we will go over some of the following items
 - KDE Connect
 - Browsers, search engines & plugins
 
-To read chapter 1 click [here]()
+To read chapter 1 click [here](Chapter_1/README.md)
 
 
 # Chapter 2 -
