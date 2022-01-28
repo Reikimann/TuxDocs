@@ -37,6 +37,23 @@ The other way we can install a package is using something we call `yay`
 
 Yay can install what we call [Arch User Reposetories](https://wiki.archlinux.org/title/Arch_User_Repository) these can be usefull when installing an app like spotify
 
+Firstly with yay we will look at the installation process, unfortunately yay cannot be found using pacman and we need to install and build it ourselves
+
+```bash
+# We need these two packages to get started, git to download the project files and base-devel to compile
+$ sudo pacman -S git
+$ sudo pacman -S base-devel
+
+# Now we can make a new folder, enter it and clone the files
+$ git clone https://aur.archlinux.org/yay.git
+$ cd yay
+
+# Compiile the files
+$ makepkg -si
+```
+
+And thats how we succesfully can install yay
+
 **WARNING: It is very important when we use yay to avoid using sudo, it will ask you for permission when it needs it**
 
 ```bash
