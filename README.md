@@ -52,18 +52,18 @@ Well hello there
 
 # Chapter 1 - Getting Started
 
-During this chapter we will go over some of the following items
+During this chapter we will go over some of the following items:
 
 - [Distros and Flavores, choosing your first distro](Chapter_1/distros.md)
-- Techical terminologies
-- Getting comfortable with the commandline
+- [Techical terminologies](Chapter_1/technical_termonologies.md)
+- [Getting comfortable with the commandline](getting_comfortable.md)
   - Managing package managers
-- Setting up your system
-- System configs
-- Useful programs - GUI
-- CLI Utils (command line interface)
-- KDE Connect
-- Browsers, search engines & plugins
+- [Setting up your system](setting_up.md)
+- [System configs](system_configs.md)
+- [Useful programs - GUI](GUI_programs.md)
+- [CLI Utils (command line interface)](CLI_programs.md)
+- [KDE Connect](KDE_connect.md)
+- [Browsers, search engines & plugins](browsers.md)
 
 To read chapter 1 click [here](Chapter_1/README.md)
 
