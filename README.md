@@ -17,7 +17,7 @@
     <a href="https://github.com/Reikimann/Placeholder/issues">Report Bug</a>
     ·
     <a href="https://github.com/Reikimann/Placeholder/issues">Request Feature</a>
-      ·
+    ·
     <a href="https://github.com/Reikimann/Placeholder/pulls">Add to the project</a>
   </p>
 </p>
