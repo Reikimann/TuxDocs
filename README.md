@@ -29,7 +29,7 @@
       <a href="#about-the-project">About The Project</a>
     </li>
     <li>
-      <a href="#chapter-1-getting-started">Chapter 1 - Getting Started</a>
+      <a href="README.md#chapter-1-getting-started">Chapter 1 - Getting Started</a>
       <ul>
         <li><a href="#">empty</a></li>
         <li><a href="#">empty</a></li>
@@ -50,8 +50,7 @@ Well hello there. This project was started as a discord-server for linux users (
 
 We needed a way to introduce people to linux, that wouldn't want to watch hours of linux youtube content. So I, Reikimann, came up with the idea to write this massive markdown, chapter based leveling documentation, to introduce people to linux, some cool stuff and other ideas.
 
-For now, the release-schedule of this project can't be determined, because of our school. We intent to release one chapter/level at a time to the main branch, but you are welcome to watch and contribute to the project through the Readme-edits branch. 
-
+For now, the release-schedule of this project can't be determined, because of our school. We intent to release one chapter/level at a time to the main branch, but you are welcome to watch and contribute to the project through the Readme-edits branch.
 
 # Chapter 1 - Getting Started
 
@@ -70,7 +69,10 @@ During this chapter we will go over some of the following items:
 
 To read chapter 1 click [here](Chapter_1/README.md)
 
-
 # Chapter 2 -
 
 ...
+
+## Contributing
+
+This is a new project and we do not claim to be experts on this topic. We would simply love more people joining the Linux community and we believe developing this resource could help newcomers and long time users alike. So if you would like to help us extending this resource, see the [contributing](CONTRIBUTING.md) file.
