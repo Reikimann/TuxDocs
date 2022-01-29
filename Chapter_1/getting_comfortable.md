@@ -104,4 +104,3 @@ Try installing spotify using your command line
 
 dev Note : https://dev.to/mattdark/installing-yay-on-arch-linux-1kgm
 
-
