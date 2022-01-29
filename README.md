@@ -22,27 +22,7 @@
   </p>
 </p>
 
-<details open="open">
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-    </li>
-    <li>
-      <a href="#chapter-1-getting-started">Chapter 1 - Getting Started</a>
-      <ul>
-        <li><a href="#">empty</a></li>
-        <li><a href="#">empty</a></li>
-      </ul>
-    <li>
-      <a href="#chapter-2">Chapter 2</a>
-      <ul>
-        <li><a href="#">empty</a></li>
-        <li><a href="#">empty</a></li>
-      </ul>
-    </li>
-  </ol>
-</details>
+
 
 ## About the project
 
