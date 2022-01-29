@@ -4,6 +4,23 @@ Great! You got your freshly installed setup, now what?
 
 Linux is a whole lot diffrent from more mainstream operating systems such as windows, first big thing is installing apps.
 
+Lets look at some terminal basics, when ever you see a symbol like `$` that symbolises a temrinal command, you dont want to include the `$`
+
+The first things you should know is navigation within the terminal, here is a few examples
+
+```bash
+# Moving into a folder
+$ cd Desktop
+# cd meanning change directory
+
+# List all avaliable files and folders in the current directory
+$ ls
+
+
+
+
+```
+
 The first time i was on a linux machine I went to the internet and downloaded the spotify installer as an exe. This is far from how it works, first thing i want to talk about is installing apps.
 
 The methods we are talking about in this article are on `debian` and `arch`
@@ -50,6 +67,10 @@ $ cd yay
 
 # Compiile the files
 $ makepkg -si
+
+# And now that we finished the install we can agein remove the installation files 
+$ cd ..
+$ rm -r yay
 ```
 
 And thats how we succesfully can install yay
