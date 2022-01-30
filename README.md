@@ -29,17 +29,12 @@
       <a href="#about-the-project">About The Project</a>
     </li>
     <li>
-      <a href="README.md#chapter-1-getting-started">Chapter 1 - Getting Started</a>
-      <ul>
-        <li><a href="#">empty</a></li>
-        <li><a href="#">empty</a></li>
-      </ul>
+      <a href="#chapter-1-getting-started">Chapter 1 - Getting started</a>
     <li>
       <a href="#chapter-2">Chapter 2</a>
-      <ul>
-        <li><a href="#">empty</a></li>
-        <li><a href="#">empty</a></li>
-      </ul>
+    </li>
+    <li>
+      <a href="#contributing">Contributing</a>
     </li>
   </ol>
 </details>
@@ -50,14 +45,14 @@ Well hello there. This project was started as a discord-server for linux users (
 
 We needed a way to introduce people to linux, that wouldn't want to watch hours of linux youtube content. So I, Reikimann, came up with the idea to write this massive markdown, chapter based leveling documentation, to introduce people to linux, some cool stuff and other ideas.
 
-For now, the release-schedule of this project can't be determined, because of our school. We intent to release one chapter/level at a time to the main branch, but you are welcome to watch and contribute to the project through the Readme-edits branch.
+For now, the release schedule of this project can't be determined, because of our school. We intent to release one chapter/level at a time to the main branch, but you are welcome to watch and contribute to the project through the Readme-edits branch.
 
-# Chapter 1 - Getting Started
+# Chapter 1 - Getting started
 
 During this chapter we will go over some of the following items:
 
-- [Distros and Flavores, choosing your first distro](Chapter_1/distros.md)
-- [Techical terminologies](Chapter_1/technical_termonologies.md)
+- [Distros and flavors, choosing your first distro](Chapter_1/distros.md)
+- [Technical terminologies](Chapter_1/technical_terminologies.md)
 - [Getting comfortable with the commandline](Chapter_1/getting_comfortable.md)
   - Managing package managers
 - [Setting up your system](Chapter_1/setting_up.md)

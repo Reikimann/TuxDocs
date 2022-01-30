@@ -77,7 +77,7 @@ And thats how we successfully can install yay.
 
 **WARNING: It is very important to not give yay [sudo privileges](technical_terminologies.md), when installing packages, it will ask you for permission when it needs it.**
 
-Now, when installing packages with yay, the [flags](technical_termonologies.md) used a pretty much the same as pacman's.
+Now, when installing packages with yay, the [flags](technical_terminologies.md) used a pretty much the same as pacman's.
 
 ```bash
 $ yay -S <package name>
