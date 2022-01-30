@@ -70,4 +70,4 @@ To read chapter 1 click [here](Chapter_1/README.md)
 
 ## Contributing
 
-This is a new project and we do not claim to be experts on this topic. We would simply love more people joining the Linux community and we believe developing this resource could help newcomers and long time users alike. So if you would like to help us extending this resource, see the [contributing](CONTRIBUTING.md) file.
+This is a new project and we do not claim to be experts on this topic. We would simply love more people joining the Linux community and we believe developing this resource could help newcomers and long time users alike. So if you would like to help us extending this resource, wether it being correcting spelling mistakes or writing new articles, you are more than welcome. Please see the [contributing](CONTRIBUTING.md) file for more information.
