@@ -13,7 +13,7 @@ Changes should always be done to the pushed to the Readme-edits branch. The main
 
 ## When developing
 
-If you want to help us with this project, there are some rules that you need to follow.
+If you want to help us with this project, there are a few guidelines that you need to follow.
 
 1. If you want to add a developer note, please do it like this:
 
@@ -28,7 +28,7 @@ If you want to help us with this project, there are some rules that you need to 
 3. When showing terminal commands always start the line with a "$", indicating the command-line.
 
     ``` bash
-   $ <command> # Explanation for flags
+   $ <command> # Explanation for flags if any
     ```
 
 4. Heading, codeblocks and lists should always be surrounded by a blank line.
