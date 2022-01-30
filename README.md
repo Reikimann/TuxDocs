@@ -39,7 +39,7 @@
   </ol>
 </details>
 
-## About the project
+# About the project
 
 Well hello there. This project was started as a discord-server for linux users (mostly at our school), because we (Logicguy1 & Reikimann) wanted to get people to transfer to linux. We realized that people don't want to do things that seems complicated, so that's where this project came into play.
 
@@ -47,7 +47,7 @@ We needed a way to introduce people to linux, that wouldn't want to watch hours 
 
 For now, the release schedule of this project can't be determined, because of our school. We intent to release one chapter/level at a time to the main branch, but you are welcome to watch and contribute to the project through the Readme-edits branch.
 
-# Chapter 1 - Getting started
+## Chapter 1 - Getting started
 
 During this chapter we will go over some of the following items:
 
@@ -64,7 +64,7 @@ During this chapter we will go over some of the following items:
 
 To read chapter 1 click [here](Chapter_1/README.md)
 
-# Chapter 2 -
+## Chapter 2 -
 
 ...
 
