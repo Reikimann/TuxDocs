@@ -1,2 +1,2 @@
- Distros and Flavores
 
+# Distros and flavors

@@ -2,105 +2,96 @@
 
 Great! You got your freshly installed setup, now what?
 
-Linux is a whole lot diffrent from more mainstream operating systems such as windows, first big thing that you need to get used to is installing apps.
+Linux is a whole lot different from more mainstream operating systems such as windows, first big thing that you need to get used to is installing apps.
 
-Lets look at some terminal basics, when ever you see a symbol like `$` that symbolises a temrinal command, you dont want to include the `$`
+Lets look at some terminal basics, when ever you see a symbol like `$` that symbolizes a terminal command, you don't want to include the `$`
 
 The first things you should know is navigation within the terminal, here is a few examples
 
 ```bash
 # Moving into a folder
-$ cd Desktop
-# cd meanning change directory
+$ cd Desktop # cd means change directory
 
-# List all avaliable files and folders in the current directory
+# List files and folders in the current directory
 $ ls
 
 # Create a folder
-$ mkdir <folder>
+$ mkdir <folder> # mkdir means make directory
 
-# Remove a file / folder, you need to use the second one if there are files in the folder
+# Remove a file/folder. You need to use the second one if there are files in the folder
 $ rm <file>
-$ rm -r <folder>
+$ rm -r <folder> # -r means recursively 
 ```
 
-The first time i was on a linux machine I went to the internet and downloaded the spotify installer as an exe. This is far from how it works, first thing i want to talk about is installing apps.
+## Installing packages
 
-The methods we are talking about in this article are on `debian` and `arch`
+Now, in Windows when you want to install something, you typically open your browser, locates what you want to download and download it.
+This is far from how it works on linux. Packages on linux are installed like the apps on our phones. From one place through a package manager.
 
-## Debian (apt)
+Depending on how your system is set up, the method may vary. We will be covering package installation for the Debian- and Arch-based systems.
 
-## Arch (pacman and yay)
+### Debian (apt)
 
-On the arch system we mainly use the package manager `pacman` and `yay` for [AURs](https://wiki.archlinux.org/title/Arch_User_Repository), what is an AUR you say? Its what we call an Arch User Reposetory simply a method for downloading an app.
+### Arch (pacman and yay)
 
-A few important commands to remember about pacman is:
+On the arch system we mainly use the package manager `pacman` for official packages and `yay` for [AURs](https://wiki.archlinux.org/title/Arch_User_Repository), what is an AUR you say? Its what we call the Arch User Repository, which is a community-driven repository for Arch users.
+
+Now, a few important commands to remember for managing packages on your system:
 
 ```bash
-$ pacman -Ss <package name>
+$ pacman -Ss <package name> # Searches for a packages in the database, searches both in packages' names and descriptions
 ```
-This will search for a package, if youre looking for something like firefox etc
 
 ```bash
-$ sudo pacman -S <package name>
+$ sudo pacman -S <package name(s)> # Installs the package(s) 
 ```
-Install the application youre looking for
 
 ```bash
-$ sudo pacman -Rns <package name>
+$ sudo pacman -Rns <package name(s)> # Removes package(s), prevents backups and dependencies which are no longer needed
 ```
-Removes a package
 
-Obviusly this is a very breef description of the pacman package manager and so if you want to read more click [here](https://wiki.archlinux.org/title/Pacman)
+Obviously this is a very brief description of the pacman package manager, so if you want to read more click [here](https://wiki.archlinux.org/title/Pacman).
 
-The other way we can install a package is using something we call `yay`
+If we want to install a package which is not in the official repositories, we can look for them in the AUR.
+To do this we need an AUR helper and the most used is [Yay](https://github.com/Jguer/yay).
 
-Yay can install what we call [Arch User Reposetories](https://wiki.archlinux.org/title/Arch_User_Repository) these can be usefull when installing an app like spotify
-
-Firstly with yay we will look at the installation process, unfortunately yay cannot be found using pacman and we need to install and build it ourselves
+Firstly we will look at the installation process for yay. Unfortunately yay is not in the official repositories and we need to install and build it from [source](technical_terminologies.md) ourselves.
 
 ```bash
-# We need these two packages to get started, git to download the project files and base-devel to compile
-$ sudo pacman -S git
-$ sudo pacman -S base-devel
+# We need two packages to get started, git to download the project files and base-devel to compile.
+# Base-devel contains tools required to build many packages.
+$ sudo pacman -S git base-devel
 
 # Now we can make a new folder, enter it and clone the files
 $ git clone https://aur.archlinux.org/yay.git
 $ cd yay
 
-# Compiile the files
-$ makepkg -si
+$ makepkg -si # [Compiles](technical_terminologies.md) the files.
 
-# And now that we finished the install we can agein remove the installation files 
+# And now that we finished the install, we can remove the installation files again.
 $ cd ..
 $ rm -r yay
 ```
 
-And thats how we succesfully can install yay
+And thats how we successfully can install yay.
 
-**WARNING: It is very important when we use yay to avoid using sudo, it will ask you for permission when it needs it**
+**WARNING: It is very important to not give yay [sudo privileges](technical_terminologies.md), when installing packages, it will ask you for permission when it needs it.**
+
+Now, when installing packages with yay, the [flags](technical_termonologies.md) used a pretty much the same as pacman's.
 
 ```bash
 $ yay -S <package name>
 ```
-As you can see, yay acuallt uses the same [flags](technical_termonologies.md) as with pacman, so installing, searching and removing packages is the same
-
-### A little task
-
-Up for your first challange?
-
-Try installing spotify using your command line
 
 <details closed="closed">
-  <summary>Solution [Spoilers]</summary>
+  <summary>A little task to see if you installed yay correctly.</summary>
 
-  <p>We want to make sure that we have yay installed before starting</p>
+  <p>We want to make sure that we have yay correctly installed before starting.</p>
 
   ```bash
-  $ yay -S spotify
+  $ yay -S asciiquarium-git # A small fun ascii art aquarium.
   ```
 
 </details>
 
-dev Note : https://dev.to/mattdark/installing-yay-on-arch-linux-1kgm
-
+Dev-note: https://dev.to/mattdark/installing-yay-on-arch-linux-1kgm

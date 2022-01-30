@@ -11,7 +11,7 @@
   <h3 align="center">Placeholder</h3>
 
   <p align="center">
-    A quickstart guide for linux that also goes indepth for advanced users  
+    A quickstart guide for linux that also goes in-depth for advanced users  
     <br />
     <br />
     <a href="https://github.com/Reikimann/Placeholder/issues">Report Bug</a>
