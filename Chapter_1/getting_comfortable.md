@@ -26,7 +26,7 @@ $ rm -r <folder> # -r means recursively
 ## Installing packages
 
 Now, in Windows when you want to install something, you typically open your browser, locates what you want to download and download it.
-This is far from how it works on linux. Packages on linux are installed like the apps on our phones. From one place through a package manager.
+This is far from how it works on linux. Packages on linux are installed like the apps on our phones. From one place. Through a package manager in the terminal.
 
 Depending on how your system is set up, the method may vary. We will be covering package installation for the Debian- and Arch-based systems.
 
@@ -34,9 +34,9 @@ Depending on how your system is set up, the method may vary. We will be covering
 
 ### Arch (pacman and yay)
 
-On the arch system we mainly use the package manager `pacman` for official packages and `yay` for [AURs](https://wiki.archlinux.org/title/Arch_User_Repository), what is an AUR you say? Its what we call the Arch User Repository, which is a community-driven repository for Arch users.
+On the Arch system we mainly use the package manager "pacman" for official packages and "yay" for [AURs](https://wiki.archlinux.org/title/Arch_User_Repository), what is an AUR you say? Its what we call the Arch User Repository, which is a community-driven repository for Arch users.
 
-Now, a few important commands to remember for managing packages on your system:
+Now, a few important terminal commands to remember for managing packages on your system:
 
 ```bash
 $ pacman -Ss <package name> # Searches for a packages in the database, searches both in packages' names and descriptions
@@ -90,6 +90,7 @@ $ yay -S <package name>
 
   ```bash
   $ yay -S asciiquarium-git # A small fun ascii art aquarium.
+  $ asciiquarium # Runs the program and press q to quit.
   ```
 
 </details>
