@@ -39,7 +39,7 @@
 - User agent switcher and manager [[Chrome](https://chrome.google.com/webstore/detail/user-agent-switcher-and-m/bhchdcejhohfmigjafbampogmaanbfkg), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/user-agent-string-switcher/)] *// Change your useragent to make it seem like youre on a diffrent os / broswer*
 - [Adblock (Ublock)](https://ublockorigin.com/) *// Block ads*
 - [Bitwarden](https://bitwarden.com/) *// Open soruce password manager*
-- [Decentral eyes](https://decentraleyes.org/) *// Tries to stop tracking from diffrent websites
+- [Decentral eyes](https://decentraleyes.org/) *// Tries to stop tracking from diffrent websites*
 - SponsorBlock [[Chrome](https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/)] *// Skip youtube sponserships*
 
 
