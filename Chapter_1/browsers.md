@@ -12,6 +12,7 @@
 - Firefox
 - Waterfox
 - Palemoon
+- librewolf
 
 ### Other
 
