@@ -29,7 +29,7 @@
       <a href="#about-the-project">About The Project</a>
     </li>
     <li>
-      <a href="#chapter-1-getting-started">Chapter 1 - Getting started</a>
+      <a href="#chapter-1---getting-started">Chapter 1 - Getting started</a>
     <li>
       <a href="#chapter-2">Chapter 2</a>
     </li>
