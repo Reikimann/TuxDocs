@@ -36,6 +36,31 @@ Depending on how your system is set up, the method may vary. We will be covering
 
 ### Debian (apt)
 
+Debian based distros use a package manager called apt, if you are curios about what package manager your distro uses, just duck it.
+
+Here are a few commands that are good to rememebr
+
+```bash
+$ apt search <package> # Search for a package in the database
+```
+
+```bash
+$ sudo apt install <package> # Install a package 
+```
+
+```bash
+$ sudo apt remove <package> # Unstalls a package
+```
+
+```bash
+$ sudo apt update # Look for avaliable package updates
+$ sudo apt upgrade # Apply the updates, this command takes a while to finish but you can do other tasks in the meantime
+```
+
+This is very much a breef overview of the apt package manager and its caperbilaties, you can read more about it [here](https://www.linode.com/docs/guides/apt-package-manager/)
+
+Tho to avoid bad situation like [this](https://youtu.be/0506yDSgU7M?t=631) **always always always** read the output in your terminal, it is there to inform you of what it is going to do, always be carefull around sudo, it can break your system
+
 ### Arch (pacman and yay)
 
 On the Arch system we mainly use the package manager "pacman" for official packages and "yay" for [AURs](https://wiki.archlinux.org/title/Arch_User_Repository), what is an AUR you say? Its what we call the Arch User Repository, which is a community-driven repository for Arch users.
@@ -52,6 +77,10 @@ $ sudo pacman -S <package name(s)> # Installs the package(s)
 
 ```bash
 $ sudo pacman -Rns <package name(s)> # Removes package(s), prevents backups and dependencies which are no longer needed
+```
+
+```bash
+$ sudo pacman -Suy # Update all the packages on your system
 ```
 
 Obviously this is a very brief description of the pacman package manager, so if you want to read more click [here](https://wiki.archlinux.org/title/Pacman).
