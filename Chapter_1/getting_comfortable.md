@@ -88,7 +88,7 @@ Obviously this is a very brief description of the pacman package manager, so if 
 If we want to install a package which is not in the official repositories, we can look for them in the AUR.
 To do this we need an AUR helper and the most used is [Yay](https://github.com/Jguer/yay).
 
-Firstly we will look at the installation process for yay. Unfortunately yay is not in the official repositories and we need to install and build it from [source](technical_terminologies.md) ourselves. To check if you already have yay installed you can write this in your terminal: ``yay --version``, if you do, then just skip the installation process below.
+Firstly we will look at the installation process for yay. Unfortunately yay is not in the official repositories and we need to install and build it from [source](technical_terminologies.md) ourselves. To check if you already have yay installed, you can write this in your terminal: ``yay --version``. If you do, then just skip the installation process below.
 
 <details closed="closed">
     <summary>Yay installation process.</summary>
