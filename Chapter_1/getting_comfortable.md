@@ -96,3 +96,4 @@ $ yay -S <package name>
 </details>
 
 Dev-note: https://dev.to/mattdark/installing-yay-on-arch-linux-1kgm
+Dev-note: Need to finish writeing APT 
