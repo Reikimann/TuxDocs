@@ -1,6 +1,6 @@
 # Technical Terminologies
 
-In this article we will cover some techinal terminology, you can use `ctrl` + `f` and search for the tearm your are looking for.
+In this article we will cover some techinal terminology, you can use `ctrl` + `f` and search for the term your are looking for.
 
 ### Command Flags 
 
@@ -8,14 +8,14 @@ A commad flag allows you to specify extra options when running a command, they c
 
 ```bash
 $ ls -l # -l = list view
-$ touch -h # Opens the help menu
+$ touch -h # Opens the help page
 ```
 
 They can also come in expanded versions 
 
 ```bash
 $ ls --long # Expanded version of -l 
-$ touch --help # Opens the help menu
+$ touch --help # Opens the help page
 ```
 
 As you can see they have dubble dashes to signal that they are longer than one character, in that sense you can combine the tiny flags 
