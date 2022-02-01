@@ -2,10 +2,14 @@
 
 Great! You got your freshly installed setup, now what?
 
+1. [Terminal Commands](#terminal-commands)
+2. [Installing applications](#installing-packages)
+
 Linux is a whole lot different from more mainstream operating systems such as windows, first big thing that you need to get used to is installing apps.
 
-Lets look at some terminal basics, when ever you see a symbol like `$` that symbolizes a terminal command, you don't want to include the `$`
+## Terminal commands
 
+Lets look at some terminal basics, when ever you see a symbol like `$` that symbolizes a terminal command, you don't want to include the `$`  
 The first things you should know is navigation within the terminal, here is a few examples
 
 ```bash
@@ -96,4 +100,4 @@ $ yay -S <package name>
 </details>
 
 Dev-note: https://dev.to/mattdark/installing-yay-on-arch-linux-1kgm
-Dev-note: Need to finish writeing APT 
+          
