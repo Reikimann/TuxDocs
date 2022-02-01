@@ -90,6 +90,9 @@ To do this we need an AUR helper and the most used is [Yay](https://github.com/J
 
 Firstly we will look at the installation process for yay. Unfortunately yay is not in the official repositories and we need to install and build it from [source](technical_terminologies.md) ourselves.
 
+<details closed="closed">
+    <summary>Yay installation process.</summary>
+    
 ```bash
 # We need two packages to get started, git to download the project files and base-devel to compile.
 # Base-devel contains tools required to build many packages.
@@ -107,6 +110,8 @@ $ rm -r yay
 ```
 
 And thats how we successfully can install yay.
+
+</details>
 
 **WARNING: It is very important to not give yay [sudo privileges](technical_terminologies.md), when installing packages, it will ask you for permission when it needs it.**
 
