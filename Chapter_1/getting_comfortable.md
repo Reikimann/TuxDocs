@@ -38,28 +38,28 @@ Depending on how your system is set up, the method may vary. We will be covering
 
 Debian based distros use a package manager called apt, if you are curios about what package manager your distro uses, just duck it.
 
-Here are a few commands that are good to rememebr
+Here are a few commands, that are good to remember:
 
 ```bash
-$ apt search <package> # Search for a package in the database
+$ apt search <package> # Search for a package in the database.
 ```
 
 ```bash
-$ sudo apt install <package> # Install a package 
+$ sudo apt install <package> # Installs a package.
 ```
 
 ```bash
-$ sudo apt remove <package> # Unstalls a package
+$ sudo apt remove <package> # Uinstalls a package.
 ```
 
 ```bash
 $ sudo apt update # Look for avaliable package updates
-$ sudo apt upgrade # Apply the updates, this command takes a while to finish but you can do other tasks in the meantime
+$ sudo apt upgrade # Apply the updates, this may take some time, but you can do other things meanwhile. 
 ```
 
-This is very much a breef overview of the apt package manager and its caperbilaties, you can read more about it [here](https://www.linode.com/docs/guides/apt-package-manager/)
+This is very much a brief overview of the apt package manager and its capabilities. You can read more about it [here](https://www.linode.com/docs/guides/apt-package-manager/).
 
-Tho to avoid bad situation like [this](https://youtu.be/0506yDSgU7M?t=631) **always always always** read the output in your terminal, it is there to inform you of what it is going to do, always be carefull around sudo, it can break your system
+Tho to avoid bad situation like [this](https://youtu.be/0506yDSgU7M?t=631) **always always always** read the output in your terminal, it is there to inform you of what it is going to do, always be carefull around sudo, it can break your system.
 
 ### Arch (pacman and yay)
 
@@ -68,19 +68,19 @@ On the Arch system we mainly use the package manager "pacman" for official packa
 Now, a few important terminal commands to remember for managing packages on your system:
 
 ```bash
-$ pacman -Ss <package name> # Searches for a packages in the database, searches both in packages' names and descriptions
+$ pacman -Ss <package name> # Searches for packages, searches both the package name and description.
 ```
 
 ```bash
-$ sudo pacman -S <package name(s)> # Installs the package(s) 
+$ sudo pacman -S <package name(s)> # Installs the package(s).
 ```
 
 ```bash
-$ sudo pacman -Rns <package name(s)> # Removes package(s), prevents backups and dependencies which are no longer needed
+$ sudo pacman -Rns <package name(s)> # Removes package(s), prevents backups no longer needed and dependencies.
 ```
 
 ```bash
-$ sudo pacman -Suy # Update all the packages on your system
+$ sudo pacman -Suy # Update all the packages on your system.
 ```
 
 Obviously this is a very brief description of the pacman package manager, so if you want to read more click [here](https://wiki.archlinux.org/title/Pacman).
@@ -88,7 +88,7 @@ Obviously this is a very brief description of the pacman package manager, so if 
 If we want to install a package which is not in the official repositories, we can look for them in the AUR.
 To do this we need an AUR helper and the most used is [Yay](https://github.com/Jguer/yay).
 
-Firstly we will look at the installation process for yay. Unfortunately yay is not in the official repositories and we need to install and build it from [source](technical_terminologies.md) ourselves.
+Firstly we will look at the installation process for yay. Unfortunately yay is not in the official repositories and we need to install and build it from [source](technical_terminologies.md) ourselves. To check if you already have yay installed you can write this in your terminal: ``yay --version``, if you do, then just skip the installation process below.
 
 <details closed="closed">
     <summary>Yay installation process.</summary>
@@ -132,6 +132,4 @@ $ yay -S <package name>
   ```
 
 </details>
-
-Dev-note: https://dev.to/mattdark/installing-yay-on-arch-linux-1kgm
-          
+ 
