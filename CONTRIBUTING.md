@@ -3,9 +3,9 @@
 
 ## Filing a bug
 
-Before filing a bug or writing a patch, please check the [development version](https://github.com/Reikimann/Placeholder/tree/Readme-edits) to see if the issue has been fixed.
+Before filing a bug or writing a patch, please check the [development version](https://github.com/Reikimann/TuxHub/tree/Readme-edits) to see if the issue has been fixed.
 
-Issues can be filed [here](https://github.com/Reikimann/Placeholder/issues).
+Issues can be filed [here](https://github.com/Reikimann/TuxHub/issues).
 
 ## Pushing changes
 

@@ -1,8 +1,8 @@
 <p align="center">
-<img src=https://img.shields.io/github/stars/Reikimann/Placeholder?style=for-the-badge&logo=appveyor&color=blue/>
-<img src=https://img.shields.io/github/forks/Reikimann/Placeholder?style=for-the-badge&logo=appveyor&color=blue/>
-<img src=https://img.shields.io/github/issues/Reikimann/Placeholder?style=for-the-badge&logo=appveyor&color=informational/>
-<img src=https://img.shields.io/github/issues-pr/Reikimann/Placeholder?style=for-the-badge&logo=appveyor&color=informational/>
+<img src=https://img.shields.io/github/stars/Reikimann/TuxHub?style=for-the-badge&logo=appveyor&color=blue/>
+<img src=https://img.shields.io/github/forks/Reikimann/TuxHub?style=for-the-badge&logo=appveyor&color=blue/>
+<img src=https://img.shields.io/github/issues/Reikimann/TuxHub?style=for-the-badge&logo=appveyor&color=informational/>
+<img src=https://img.shields.io/github/issues-pr/Reikimann/TuxHub?style=for-the-badge&logo=appveyor&color=informational/>
 </p>
 <br />
 <p align="center">
@@ -14,11 +14,11 @@
     A quickstart guide for linux that also goes in-depth for advanced users  
     <br />
     <br />
-    <a href="https://github.com/Reikimann/Placeholder/issues">Report Bug</a>
+    <a href="https://github.com/Reikimann/TuxHub/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Reikimann/Placeholder/issues">Request Feature</a>
+    <a href="https://github.com/Reikimann/TuxHub/issues">Request Feature</a>
     ·
-    <a href="https://github.com/Reikimann/Placeholder/pulls">Add to the project</a>
+    <a href="https://github.com/Reikimann/TuxHub/pulls">Add to the project</a>
   </p>
 </p>
 
