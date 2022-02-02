@@ -33,14 +33,14 @@
 
 ### Plugins
 
-- [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb) *// Intergate vim keybinds in your browser*
+- [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb) *// Integrate vim keybindings in your browser*
 - Gnome-shell integration (ONLY Gnome users) [[Chrome](https://chrome.google.com/webstore/detail/gnome-shell-integration/gphhapmejobijbbhgpjhcjognlahblep), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/gnome-shell-integration/)] *// Some cool gnome addons you can manage via the browser*
 - [No script](https://noscript.net/) *// Block certain scripts from running on the websites you visit*
-- User agent switcher and manager [[Chrome](https://chrome.google.com/webstore/detail/user-agent-switcher-and-m/bhchdcejhohfmigjafbampogmaanbfkg), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/user-agent-string-switcher/)] *// Change your useragent to make it seem like youre on a diffrent os / broswer*
+- User agent switcher and manager [[Chrome](https://chrome.google.com/webstore/detail/user-agent-switcher-and-m/bhchdcejhohfmigjafbampogmaanbfkg), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/user-agent-string-switcher/)] *// Change your useragent to make it seem like you're on a different os / browser*
 - [Adblock (Ublock)](https://ublockorigin.com/) *// Block ads*
-- [Bitwarden](https://bitwarden.com/) *// Open soruce password manager*
-- [Decentral eyes](https://decentraleyes.org/) *// Tries to stop tracking from diffrent websites*
-- SponsorBlock [[Chrome](https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/)] *// Skip youtube sponserships*
+- [Bitwarden](https://bitwarden.com/) *// Open source password manager*
+- [Decentraleyes](https://decentraleyes.org/) *// Tries to stop tracking from different websites*
+- SponsorBlock [[Chrome](https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/)] *// Skip youtube sponsorships*
 
 
 Dev-note: Cant find: Surf  
