@@ -8,7 +8,7 @@
 <p align="center">
     <img src="assets/logo.png" alt="Logo" width="150" height="150">
 
-  <h3 align="center">Placeholder</h3>
+  <h3 align="center">TuxDocs</h3>
 
   <p align="center">
     A quickstart guide for linux that also goes indepth for advanced users  
