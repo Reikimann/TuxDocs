@@ -12,6 +12,7 @@ The first thing is really what we call **distro hopping** its where you go one d
 
 We will be raing each distro from 1 to 10 in different critira
 
+- Package manager
 - Stability
 - Securety / Privacy
 - Customizabilaty
@@ -23,4 +24,87 @@ We will be raing each distro from 1 to 10 in different critira
 Also its important to note that this is **our Subjective Views on each distro**.
 
 And with that we also wont jude them upon looks since that can entirely be changed, its how well i can be changed that we feel is important
+
+
+## Linux Mint  
+- Package manager
+- Stability
+- Securety / Privacy
+- Customizabilaty
+- Speed / Productivity
+- Ease of use
+- Update cylce
+- Package selection
+
+## Arch linux  
+- Package manager
+- Stability
+- Securety / Privacy
+- Customizabilaty
+- Speed / Productivity
+- Ease of use
+- Update cylce
+- Package selection
+
+## Ubuntu
+- Package manager
+- Stability
+- Securety / Privacy
+- Customizabilaty
+- Speed / Productivity
+- Ease of use
+- Update cylce
+- Package selection
+
+## Pop Os
+- Package manager
+- Stability
+- Securety / Privacy
+- Customizabilaty
+- Speed / Productivity
+- Ease of use
+- Update cylce
+- Package selection
+
+## Endever
+- Package manager
+- Stability
+- Securety / Privacy
+- Customizabilaty
+- Speed / Productivity
+- Ease of use
+- Update cylce
+- Package selection
+
+## Majaro
+- Package manager
+- Stability
+- Securety / Privacy
+- Customizabilaty
+- Speed / Productivity
+- Ease of use
+- Update cylce
+- Package selection
+
+## Kali Linux 
+- Package manager
+- Stability
+- Securety / Privacy
+- Customizabilaty
+- Speed / Productivity
+- Ease of use
+- Update cylce
+- Package selection
+
+## Parrot
+- Package manager
+- Stability
+- Securety / Privacy
+- Customizabilaty
+- Speed / Productivity
+- Ease of use
+- Update cylce
+- Package selection
+
+
 
