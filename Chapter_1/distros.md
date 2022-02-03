@@ -27,47 +27,47 @@ And with that we also wont jude them upon looks since that can entirely be chang
 
 
 ## Linux Mint  
-- Package manager
+- Package manager: **APT**
 - Stability
 - Securety / Privacy
 - Customizabilaty
 - Speed / Productivity
-- Ease of use
+- Ease of use: **8**
 - Update cylce
 - Package selection
 
 ## Arch linux  
-- Package manager
+- Package manager: **Pacman**
 - Stability
 - Securety / Privacy
-- Customizabilaty
+- Customizabilaty: **9**
 - Speed / Productivity
-- Ease of use
+- Ease of use: **3**
 - Update cylce
 - Package selection
 
 ## Ubuntu
-- Package manager
+- Package manager: **APT**
 - Stability
 - Securety / Privacy
-- Customizabilaty
+- Customizabilaty: **7**
 - Speed / Productivity
 - Ease of use
 - Update cylce
 - Package selection
 
 ## Pop Os
-- Package manager
+- Package manager: **APT**
 - Stability
 - Securety / Privacy
-- Customizabilaty
+- Customizabilaty: **6**
 - Speed / Productivity
 - Ease of use
 - Update cylce
 - Package selection
 
-## Endever
-- Package manager
+## Endeavour OS
+- Package manager: **Pacman**
 - Stability
 - Securety / Privacy
 - Customizabilaty
@@ -77,30 +77,30 @@ And with that we also wont jude them upon looks since that can entirely be chang
 - Package selection
 
 ## Majaro
-- Package manager
+- Package manager: **Pacman**
 - Stability
 - Securety / Privacy
-- Customizabilaty
+- Customizabilaty: **6**
 - Speed / Productivity
 - Ease of use
 - Update cylce
 - Package selection
 
 ## Kali Linux 
-- Package manager
-- Stability
+- Package manager: **APT**
+- Stability: **4**
 - Securety / Privacy
-- Customizabilaty
+- Customizabilaty: **5**
 - Speed / Productivity
 - Ease of use
 - Update cylce
 - Package selection
 
 ## Parrot
-- Package manager
-- Stability
+- Package manager: **APT**
+- Stability: **6**
 - Securety / Privacy
-- Customizabilaty
+- Customizabilaty: **5**
 - Speed / Productivity
 - Ease of use
 - Update cylce
