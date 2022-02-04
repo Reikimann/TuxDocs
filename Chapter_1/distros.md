@@ -12,6 +12,7 @@ The first thing is really what we call **distro hopping** its where you go one d
 
 We will be ranking each distro from 1 to 10 in different criteria.
 
+- Package manager
 - Stability
 - Security / Privacy
 - Customizability
@@ -22,4 +23,88 @@ We will be ranking each distro from 1 to 10 in different criteria.
 
 Also its important to note that this is **our Subjective Views on each distro**.
 
-And with that we also wont jude them upon looks since that can entirely be changed, its how well i can be changed that we feel is important.
+And with that we also wont jude them upon looks since that can entirely be changed, its how well i can be changed that we feel is important
+
+
+## Linux Mint  
+- Package manager: **APT**
+- Stability
+- Securety / Privacy
+- Customizabilaty
+- Speed / Productivity
+- Ease of use: **8**
+- Update cylce
+- Package selection
+
+## Arch linux  
+- Package manager: **Pacman**
+- Stability
+- Securety / Privacy
+- Customizabilaty: **9**
+- Speed / Productivity
+- Ease of use: **3**
+- Update cylce
+- Package selection
+
+## Ubuntu
+- Package manager: **APT**
+- Stability
+- Securety / Privacy
+- Customizabilaty: **7**
+- Speed / Productivity
+- Ease of use
+- Update cylce
+- Package selection
+
+## Pop Os
+- Package manager: **APT**
+- Stability
+- Securety / Privacy
+- Customizabilaty: **6**
+- Speed / Productivity
+- Ease of use
+- Update cylce
+- Package selection
+
+## Endeavour OS
+- Package manager: **Pacman**
+- Stability
+- Securety / Privacy
+- Customizabilaty
+- Speed / Productivity
+- Ease of use
+- Update cylce
+- Package selection
+
+## Majaro
+- Package manager: **Pacman**
+- Stability
+- Securety / Privacy
+- Customizabilaty: **6**
+- Speed / Productivity
+- Ease of use
+- Update cylce
+- Package selection
+
+## Kali Linux 
+- Package manager: **APT**
+- Stability: **4**
+- Securety / Privacy
+- Customizabilaty: **5**
+- Speed / Productivity
+- Ease of use
+- Update cylce
+- Package selection
+
+## Parrot
+- Package manager: **APT**
+- Stability: **6**
+- Securety / Privacy
+- Customizabilaty: **5**
+- Speed / Productivity
+- Ease of use
+- Update cylce
+- Package selection
+
+
+
