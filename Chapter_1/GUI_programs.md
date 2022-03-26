@@ -1,5 +1,5 @@
 
-Flameshot 
+Flameshot (screenshot tool)
 
 Sxiv
 
