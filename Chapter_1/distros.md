@@ -23,26 +23,17 @@ We will be ranking each distro from 1 to 10 in different criteria.
 
 Also its important to note that this is **our Subjective Views on each distro**.
 
-And with that we also wont jude them upon looks since that can entirely be changed, its how well i can be changed that we feel is important
+And with that we also wont jude them upon looks since that can entirely be changed, its how well i can be changed that we feel is important.
 
 
-## Linux Mint  
-- Package manager: **APT**
-- Stability
-- Securety / Privacy
-- Customizabilaty
-- Speed / Productivity
-- Ease of use: **8**
-- Update cylce
-- Package selection
 
 ## Arch linux  
 - Package manager: **Pacman**
 - Stability
 - Securety / Privacy
-- Customizabilaty: **9**
+- Customizabilaty:
 - Speed / Productivity
-- Ease of use: **3**
+- Ease of use:
 - Update cylce
 - Package selection
 
@@ -50,7 +41,7 @@ And with that we also wont jude them upon looks since that can entirely be chang
 - Package manager: **APT**
 - Stability
 - Securety / Privacy
-- Customizabilaty: **7**
+- Customizabilaty:
 - Speed / Productivity
 - Ease of use
 - Update cylce
@@ -60,7 +51,7 @@ And with that we also wont jude them upon looks since that can entirely be chang
 - Package manager: **APT**
 - Stability
 - Securety / Privacy
-- Customizabilaty: **6**
+- Customizabilaty:
 - Speed / Productivity
 - Ease of use
 - Update cylce
@@ -88,9 +79,9 @@ And with that we also wont jude them upon looks since that can entirely be chang
 
 ## Kali Linux 
 - Package manager: **APT**
-- Stability: **4**
+- Stability: 
 - Securety / Privacy
-- Customizabilaty: **5**
+- Customizabilaty:
 - Speed / Productivity
 - Ease of use
 - Update cylce
@@ -98,12 +89,20 @@ And with that we also wont jude them upon looks since that can entirely be chang
 
 ## Parrot
 - Package manager: **APT**
-- Stability: **6**
+- Stability:
 - Securety / Privacy
-- Customizabilaty: **5**
+- Customizabilaty:
 - Speed / Productivity
 - Ease of use
 - Update cylce
 - Package selection
 
-
+## Linux Mint  
+- Package manager: **APT**
+- Stability
+- Securety / Privacy
+- Customizabilaty
+- Speed / Productivity
+- Ease of use: 
+- Update cylce
+- Package selection
