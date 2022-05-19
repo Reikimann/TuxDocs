@@ -18,8 +18,9 @@
 
 - [Qute](https://qutebrowser.org/)
 - [Tor](https://www.torproject.org/)
-- Surf
+- [Surf](https://surf.suckless.org/)
 - [Vimb](https://fanglingsu.github.io/vimb/)
+- [Vieb](https://vieb.dev/)
 
 ### Search engines
 
@@ -42,6 +43,3 @@
 - [Decentraleyes](https://decentraleyes.org/) *// Tries to stop tracking from different websites*
 - SponsorBlock [[Chrome](https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/)] *// Skip youtube sponsorships*
 
-
-Dev-note: Cant find: Surf  
-Dev-note: Also i belive in the tor search engine thing you ment https://tor.link/?
