@@ -106,7 +106,7 @@ $ makepkg -si # [Compiles](technical_terminologies.md) the files.
 
 # And now that we finished the install, we can remove the installation files again.
 $ cd ..
-$ rm -r yay
+$ rm -rf yay
 ```
 
 And thats how we successfully can install yay.
