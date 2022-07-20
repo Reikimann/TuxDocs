@@ -1,6 +1,7 @@
-# #+title: README
+#+title: README
 # #+OPTIONS: 
-# #+begin_export html
+
+#+begin_html
 
   <p align="center">
   <img src=https://img.shields.io/github/stars/Reikimann/TuxDocs?style=for-the-badge&logo=appveyor&color=blue/>
@@ -43,7 +44,7 @@
     </ol>
   </details>
 
-# #+end_export
+#+end_html
 
 Well hello there. This project was started as a discord-server for linux users (mostly at our school), because we (Logicguy1 & Reikimann) wanted to get people to transfer to linux. We realized that people don't want to do things that seems complicated, so that's where this project came into play.
 
