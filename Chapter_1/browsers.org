@@ -1,20 +1,20 @@
 
-# Browsers, search-engines and extensions
+* Browsers, search-engines and extensions
 
-### Chromium based browsers
+*** Chromium based browsers
 
 - [Chrome (Not recommended)](https://www.google.com/)
 - [Chromium](https://www.chromium.org)
 - [Brave](https://brave.com/)
 
-### Firefox based browsers
+*** Firefox based browsers
 
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/)
 - [Waterfox](https://www.waterfox.net/)
 - [Palemoon](https://www.palemoon.org/)
 - [librewolf](https://librewolf.net/)
 
-### Other
+*** Other
 
 - [Qute](https://qutebrowser.org/)
 - [Tor](https://www.torproject.org/)
@@ -22,7 +22,7 @@
 - [Vimb](https://fanglingsu.github.io/vimb/)
 - [Vieb](https://vieb.dev/)
 
-### Search engines
+*** Search engines
 
 - [Google (Not recommended)](https://www.google.com/)
 - [DuckDuckGo](https://duckduckgo.com/)
@@ -32,7 +32,7 @@
 - [Brave](https://search.brave.com/)
 - [Qwant](https://www.qwant.com/)
 
-### Plugins
+*** Plugins
 
 - [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb) *// Integrate vim keybindings in your browser*
 - Gnome-shell integration (ONLY Gnome users) [[Chrome](https://chrome.google.com/webstore/detail/gnome-shell-integration/gphhapmejobijbbhgpjhcjognlahblep), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/gnome-shell-integration/)] *// Some cool gnome addons you can manage via the browser*

@@ -1,4 +1,3 @@
-# Created 2022-07-20 Wed 16:06
 #+title: Contributing to the project
 ** Filing a bug
 
