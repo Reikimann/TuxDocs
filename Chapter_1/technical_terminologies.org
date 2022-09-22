@@ -1,6 +1,6 @@
 * Technical Terminologies
 
-In this article we will cover some techinal terminology, you can use ~ctrl + ~f~ and search for the term your are looking for.
+In this article we will cover some techinal terminology, you can use ~ctrl + f~ and search for the term your are looking for.
 
 ** Command Flags 
 
@@ -33,6 +33,10 @@ $ ls -la # List view and shows hidden files
 ...
 
 ** Shells
+
+...
+
+** Package repository
 
 ...
 
